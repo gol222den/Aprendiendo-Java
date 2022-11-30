@@ -25,7 +25,7 @@ public class Main {
          */
 
         // Imprimir texto
-        System.out.println("Hola Mundo"); // imprimir texto
+        System.out.println("Hola Monti"); // imprimir texto
 
 
     }
